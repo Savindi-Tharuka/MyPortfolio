@@ -443,7 +443,7 @@ Testing Skills:
             </h1>
             <h2 className="text-xl md:text-2xl font-bold text-slate-200">Quality Assurance</h2>
             <p className="text-slate-300 text-base md:text-lg max-w-xl leading-relaxed">
-              Passionate about finding bugs, optimizing performance, and ensuring seamless digital experiences. Dedicated to delivering high-quality software through manual and automated testing methodologies.
+              Passionate about finding bugs, optimizing performance, and ensuring seamless digital experiences. Dedicated to delivering high-quality, reliable software.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start pt-2">
               <button 
